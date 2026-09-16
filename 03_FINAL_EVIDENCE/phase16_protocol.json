@@ -1,0 +1,45 @@
+{
+  "archive_order": [
+    "step2_3",
+    "phase3_4",
+    "phase5",
+    "phase6",
+    "phase8",
+    "phase9",
+    "phase10",
+    "phase11",
+    "phase12",
+    "phase14",
+    "phase15a",
+    "phase15b"
+  ],
+  "evidence_tiers": {
+    "phase10": "SECONDARY_INTERNAL",
+    "phase11": "SECONDARY_INTERNAL",
+    "phase12": "SECONDARY_INTERNAL",
+    "phase14": "PRIMARY_LOCKED_TEST",
+    "phase15a": "EXPLORATORY_EXTERNAL",
+    "phase15b": "EXPLORATORY_EXTERNAL",
+    "phase3_4": "PROVENANCE_ONLY",
+    "phase5": "PROVENANCE_ONLY",
+    "phase6": "SECONDARY_INTERNAL",
+    "phase8": "PROVENANCE_ONLY",
+    "phase9": "PROVENANCE_ONLY",
+    "step2_3": "PROVENANCE_ONLY"
+  },
+  "execution_device": "CPU",
+  "frozen_H": [
+    "Frustrated|Others",
+    "Suicidal|Depressed",
+    "Depressed|Others"
+  ],
+  "frozen_K": 3,
+  "frozen_tau": 0.1,
+  "inference_performed": false,
+  "input_policy": "exact twelve local frozen ZIP archives",
+  "metrics_pooled_across_scopes": false,
+  "models_loaded": false,
+  "phase": 16,
+  "raw_datasets_opened": false,
+  "title": "Final Evidence Consolidation"
+}

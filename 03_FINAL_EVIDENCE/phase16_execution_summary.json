@@ -1,0 +1,13 @@
+{
+  "failed_gate_count": 0,
+  "figure_pair_count": 6,
+  "models_loaded": false,
+  "paper_table_count": 6,
+  "phase": 16,
+  "prohibited_claim_count": 8,
+  "raw_datasets_opened": false,
+  "status": "PASS",
+  "test_reopened": false,
+  "upstream_gate_count": 62,
+  "verified_archive_count": 12
+}

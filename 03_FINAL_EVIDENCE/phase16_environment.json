@@ -1,0 +1,8 @@
+{
+  "execution_device": "CPU",
+  "matplotlib": "3.11.1",
+  "numpy": "2.5.2",
+  "pandas": "3.0.5",
+  "platform": "Linux-7.0.0-30-generic-x86_64-with-glibc2.43",
+  "python": "3.12.13"
+}
